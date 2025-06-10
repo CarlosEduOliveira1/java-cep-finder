@@ -1,6 +1,0 @@
-{
-   "java.project.referencedLibraries": [
-      "lib/**/*.jar",
-      "gson-2.12.1.jar"
-   ]
-}
